@@ -1,0 +1,6 @@
+[submodule "AuthAndStripeServer"]
+	path = AuthAndStripeServer
+	url = https://github.com/leo-bgrn/AuthAndStripeServer
+[submodule "AuthAndStripeMobileApp"]
+	path = AuthAndStripeMobileApp
+	url = https://github.com/leo-bgrn/AuthAndStripeMobileApp
